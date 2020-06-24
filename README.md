@@ -1,5 +1,7 @@
 # Gesture Phase Segmentation Classification with In-Depth Machine Learning Model Comparisons
 
+dataset: https://archive.ics.uci.edu/ml/datasets/gesture+phase+segmentation
+
 This project was assigned for one of my Postgraduate classes called *Learning From Data* at Durham Univeristy. The overall questions that was being assessed through this project was whether **gestures be classified to reveal information about semantics within what is being said in a discourse.**
 
 With the help from *Sao Paulo Research Foundation*, researchers were able to gather and construct a dataset called Gesture Phase Segmentation, focusing on three different users’ gestures when telling a story on three different comic strips. Microsoft Kinect sensor recorded these users to obtain: an image, timestamp, and positions (x, y, z) of six articulation points. This information was stored within the researchers’ 7 raw data files, while the 7 processed data files contained recorded x, y, z coordinates of the vectorial velocity, scalar velocity and vectorial acceleration of four articulation points.
