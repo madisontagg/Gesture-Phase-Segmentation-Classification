@@ -1,6 +1,6 @@
 # Gesture Phase Segmentation Classification with In-Depth Machine Learning Model Comparisons
 
-MSc Work - The overall question that was being assessed through this project was whether **gestures be classified to reveal information about semantics within what is being said in a discourse.**
+The overall question that was being assessed through this project was whether **gestures be classified to reveal information about semantics within what is being said in a discourse.**
 
 dataset: https://archive.ics.uci.edu/ml/datasets/gesture+phase+segmentation
 
